@@ -77,3 +77,4 @@ npx tsc --noEmit
 3. Customize colors and styling
 4. Deploy to Vercel, Netlify, or your preferred hosting platform
 
+

@@ -50,17 +50,17 @@ export function Hero() {
             transition={{ duration: 0.5, delay: 0.4 }}
             className="flex flex-col sm:flex-row gap-4"
           >
-            <Button size="lg" asChild>
-              <Link href="/#contact">
+            <Link href="/#contact">
+              <Button size="lg">
                 <Mail className="mr-2 h-4 w-4" />
                 Contact Me
-              </Link>
-            </Button>
-            <Button variant="outline" size="lg" asChild>
-              <Link href="/#experience">
+              </Button>
+            </Link>
+            <Link href="/#experience">
+              <Button variant="outline" size="lg">
                 View Experience
-              </Link>
-            </Button>
+              </Button>
+            </Link>
           </motion.div>
 
           <motion.div
@@ -84,4 +84,5 @@ export function Hero() {
     </section>
   )
 }
+
 
