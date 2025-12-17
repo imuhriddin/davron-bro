@@ -1,0 +1,105 @@
+{
+  "personal": {
+    "name": "Davron Rustamov",
+    "title": "PR Manager",
+    "bio": "Experienced PR Manager with a strong background in media relations, branding, and strategic communications. Specialized in building and maintaining positive public image for organizations across various industries.",
+    "photo": "/profile.jpg",
+    "description": "I am a dedicated PR professional with expertise in media relations, brand management, and strategic communications. My experience spans across multiple organizations, including NWORK International Company, where I've managed professional practices at leading media outlets such as Championat Asia, Ishонч, O'zbekiston 24, and the Department of Protected Natural Areas."
+  },
+  "education": [
+    {
+      "id": "1",
+      "institution": "Primary School",
+      "period": "2009–2020",
+      "description": "Completed primary and secondary education with focus on communication and media studies."
+    },
+    {
+      "id": "2",
+      "institution": "Journalism & Mass Communication University",
+      "period": "2021–2025",
+      "description": "Pursuing degree in Journalism & Mass Communication, developing expertise in media relations, public relations, and strategic communications."
+    }
+  ],
+  "experience": [
+    {
+      "id": "1",
+      "company": "NWORK International Company",
+      "position": "PR Manager",
+      "period": "2022–Present",
+      "description": "Leading public relations and media strategy for international operations.",
+      "practices": [
+        {
+          "id": "p1",
+          "organization": "Championat Asia",
+          "period": "2022",
+          "description": "Managed PR campaigns and media relations for sports media platform."
+        },
+        {
+          "id": "p2",
+          "organization": "Ishonch",
+          "period": "2023",
+          "description": "Developed and executed communication strategies for media outlet."
+        },
+        {
+          "id": "p3",
+          "organization": "O'zbekiston 24",
+          "period": "2024",
+          "description": "Led public relations initiatives for national media organization."
+        },
+        {
+          "id": "p4",
+          "organization": "Department of Protected Natural Areas",
+          "period": "2025",
+          "description": "Managed communications and public awareness campaigns for environmental protection."
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "id": "1",
+      "name": "Copywriting",
+      "level": 90
+    },
+    {
+      "id": "2",
+      "name": "Branding",
+      "level": 85
+    },
+    {
+      "id": "3",
+      "name": "PR",
+      "level": 95
+    },
+    {
+      "id": "4",
+      "name": "HR",
+      "level": 75
+    },
+    {
+      "id": "5",
+      "name": "Marketing",
+      "level": 80
+    }
+  ],
+  "languages": [
+    {
+      "id": "1",
+      "name": "English",
+      "level": "IELTS 5.5",
+      "proficiency": "Intermediate"
+    },
+    {
+      "id": "2",
+      "name": "Uzbek",
+      "level": "Native",
+      "proficiency": "Native"
+    }
+  ],
+  "contact": {
+    "phone": "+998 XX XXX XX XX",
+    "email": "davron.rustamov@example.com",
+    "address": "Tashkent, Uzbekistan"
+  }
+}
+
